@@ -1,3 +1,7 @@
 name = "casa-codigoplus"
 main = "worker.js"
 compatibility_date = "2024-01-01"
+
+[[kv_namespaces]]
+binding = "PLUSES"
+id = "212e359f91474a92ab15583e0c138ff2"
